@@ -13,5 +13,7 @@ Here you can:
 This project has a lot of errors of no validation of inputs, so I expect to be fixing them in the next days.🤦‍♂️ <br>
 I've done it when I was at the beggining of my bachelor degree. 
 
+**I hope you enjoy it!🤟**
+
 <h3> Tools:
 <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
