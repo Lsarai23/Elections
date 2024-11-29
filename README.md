@@ -10,7 +10,7 @@ Here you can:
 - See the results
 - See some statistics
 
-This project has a lot of errors of no validation of inputs, so I expect to be fixing them in the next days.🤦‍♂️
+This project has a lot of errors of no validation of inputs, so I expect to be fixing them in the next days.🤦‍♂️ <br>
 I've done it when I was at the beggining of my bachelor degree. 
 
 <h3> Tools:
